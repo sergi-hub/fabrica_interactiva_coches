@@ -10,6 +10,8 @@
 		
 		public static void main(String[] args) {
 			
+			System.out.println("Hola mundo!");
+			
 			Vector almacen = new Vector(5);
 			
 			int eleccion;
